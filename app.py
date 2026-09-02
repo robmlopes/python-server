@@ -2,7 +2,7 @@ import http.server
 import socketserver
 
 # DEFINA AQUI A SUA NOVA PORTA
-PORTA = 8080
+PORTA = 7900
 
 HTML = """
 <!DOCTYPE html>
